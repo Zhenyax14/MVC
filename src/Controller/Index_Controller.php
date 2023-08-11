@@ -9,7 +9,7 @@ class Index_Controller extends AbstractController
 
         $this->page = $this->view->render('index/index', ['title' => 'TITLE']);
 
-        var_dump();
+        var_dump($this->page);
         return $this->output();
     }
 }
