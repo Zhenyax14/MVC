@@ -15,10 +15,10 @@ abstract class AbstractController
     }
 
     public function get_page() {
-        require $this->page;
+        return $this->page;
     }
 
     public function output(){
-        return $this->get_page();
+        echo $this->get_page();
     }
 }

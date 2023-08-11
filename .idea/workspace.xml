@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3011a28f-7f72-44f4-8219-211f7d5bf459" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/system/Model/DbDriver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/system/Model/IDbDriver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/system/Model/Model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVC-Router/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/Index_Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Index_Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system/Controller/AbstractController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/system/Controller/AbstractController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/OSPanel/domains/MVC",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/OSPanel/domains/MVC&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\OSPanel\domains\MVC\resources\views" />
@@ -69,6 +76,8 @@
       <workItem from="1691511964801" duration="8000" />
       <workItem from="1691760366147" duration="2934000" />
       <workItem from="1691763440104" duration="83000" />
+      <workItem from="1691772566207" duration="29000" />
+      <workItem from="1691774133696" duration="2889000" />
     </task>
     <servers />
   </component>
