@@ -45,10 +45,11 @@ class Router
             for ($i = 3; $i < $count; $i++) {
 
                 if ($i % 2 == 0) {
-                    $key[] = $url[$i];
+                    $value[] = $url[$i];
 
                 } else {
-                    $value[] = $url[$i];
+
+                    $key[] = $url[$i];
                 }
 
             }

@@ -11,5 +11,8 @@
             "email": "Zhenyax14@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+      "ext-mysqli": "*",
+        "ext-iconv": "*"
+    }
 }

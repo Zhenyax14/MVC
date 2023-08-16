@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3011a28f-7f72-44f4-8219-211f7d5bf459" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Model/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/system/Model/DbDriver.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/system/Model/IDbDriver.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/system/Model/Model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC-Router/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/index/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/Index_Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Index_Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/system/Controller/AbstractController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/system/Controller/AbstractController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/system/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system/Model/DbDriver.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/system/Model/DbDriver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system/Model/Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/system/Model/Model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/system/Router.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +77,32 @@
       <workItem from="1691760366147" duration="2934000" />
       <workItem from="1691763440104" duration="83000" />
       <workItem from="1691772566207" duration="29000" />
-      <workItem from="1691774133696" duration="2889000" />
+      <workItem from="1691774133696" duration="3524000" />
+      <workItem from="1691853466722" duration="2224000" />
+      <workItem from="1691858427905" duration="462000" />
+      <workItem from="1691939911132" duration="3902000" />
+      <workItem from="1692023042726" duration="3745000" />
+      <workItem from="1692178415457" duration="4754000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/system/Model/Model.php</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/system/App.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
